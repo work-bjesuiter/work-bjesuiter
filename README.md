@@ -1,4 +1,5 @@
-This account is only for technical purposes (for example: syncing vscode settings for my work profile)
+This account is only for technical purposes  
+(for example: syncing vscode settings for my work profile)
 
 My main account can be found at: https://github.com/bjesuiter 
 My artificial brand account is: https://github.com/codemounment
